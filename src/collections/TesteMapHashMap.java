@@ -24,8 +24,6 @@ public class TesteMapHashMap {
 		
 		Aluno alunoKey = alunos.get("3");
 		System.out.println("Codigo do aluno: " + alunoKey.getNome());
-		
-		
 
 	}
 
