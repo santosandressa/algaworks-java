@@ -1,9 +1,9 @@
-package topicosAvancados.strings;
+package strings;
 
-public class TesteString {
+public class ExemploStringBuilder {
 
 	public static void main(String[] args) {
-		// String, StringBuilder e StringBuffer
+		// String, StringBuilder
 		
 		String s = "Ola ";
 		s = s + "Pessoal!";
