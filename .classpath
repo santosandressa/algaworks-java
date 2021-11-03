@@ -9,5 +9,8 @@
 	<classpathentry kind="lib" path="src/minicursoJDBC/dao/lib/mysql-connector-java-8.0.27.jar"/>
 	<classpathentry kind="lib" path="src/xml/lib/xstream-1.4.18.jar"/>
 	<classpathentry kind="lib" path="src/json/lib/gson-2.8.9.jar"/>
+	<classpathentry kind="lib" path="src/logging/lib/log4j-core-2.14.1.jar"/>
+	<classpathentry kind="lib" path="src/logging/lib/log4j-1.2-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="src/logging/lib/log4j-api-2.14.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
