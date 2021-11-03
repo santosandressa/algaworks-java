@@ -1,0 +1,10 @@
+<carrinho>
+  <produto codigo="1">
+    <descricao>condicionador</descricao>
+    <valor>9.50</valor>
+  </produto>
+  <produto codigo="2">
+    <descricao>shampoo</descricao>
+    <valor>8.20</valor>
+  </produto>
+</carrinho>
