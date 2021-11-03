@@ -8,5 +8,6 @@
 	<classpathentry excluding="minicursoJDBC/dao/lib/META-INF/|minicursoJDBC/dao/lib/META-INF/|minicursoJDBC/dao/lib/META-INF/services/" kind="src" path="src"/>
 	<classpathentry kind="lib" path="src/minicursoJDBC/dao/lib/mysql-connector-java-8.0.27.jar"/>
 	<classpathentry kind="lib" path="src/xml/lib/xstream-1.4.18.jar"/>
+	<classpathentry kind="lib" path="src/json/lib/gson-2.8.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
